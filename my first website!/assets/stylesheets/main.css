@@ -2,10 +2,10 @@
 
 
 header {
-    color:red;
-    font-size: 50px;
+    color:darkred;
+    font-size: 150%;
     text-align: center;
-    line-height: 5mm;
+    line-height: 3%;
 }
 
 #phrase {
